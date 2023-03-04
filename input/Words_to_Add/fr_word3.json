@@ -1,0 +1,23 @@
+{
+	"word": "aller",
+	"word_en": "walk",
+	"type": "verb",
+	"singular": ["vais", "vas", "va"],
+	"plural": ["allons", "allez", "vont"],
+	"definitions": [
+		{
+			"dict": "Larousse",
+			"dictType": "synonyms",
+			"year": 2000,
+			"text": ["porter", "marcher"]
+		},
+		{
+			"dict": "Larousse",
+			"dictType": "definitions",
+			"year": 2000,
+			"text": ["Se mouvoir d'un lieu vers un autre, s'y rendre ",
+				"Se déplacer pour accomplir une action, pour rendre visite à quelqu'un",
+			]
+		}
+	]
+}

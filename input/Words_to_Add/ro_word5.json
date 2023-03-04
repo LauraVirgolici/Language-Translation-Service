@@ -1,0 +1,21 @@
+{
+  "word": "canta",
+  "word_en": "sing",
+  "type": "verb",
+  "singular": ["cant","canti", "canta"],
+  "plural": ["cantam", "cantati", "canta"],
+  "definitions": [
+    {
+      "dict": "Dicționar de sinonime",
+      "dictType": "synonyms",
+      "year": 1982,
+      "text": ["fredoneaza"]
+    },
+    {
+      "dict": "Dicționarul explicativ al limbii române, ediția a II-a",
+      "dictType": "definitions",
+      "year": 2002,
+      "text": ["canta"]
+    }
+  ]
+}

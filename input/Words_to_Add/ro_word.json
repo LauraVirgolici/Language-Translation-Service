@@ -1,0 +1,22 @@
+{
+	"word": "copac",
+	"word_en": "tree",
+	"type": "noun",
+	"singular": ["copac"],
+	"plural": ["copaci"],
+	"definitions": [
+		{
+			"dict": "Dicționar de sinonime",
+			"dictType": "synonyms",
+			"year": 1982,
+			"text": ["arbore", "pom", "lemn"]
+		},
+		{
+			"dict": "Dicționarul explicativ al limbii române, ediția a II-a",
+			"dictType": "definitions",
+			"year": 2002,
+			"text": ["Plantă cu trunchiul lemnos și înalt, ale cărei crengi se ramifică la o distanță oarecare de sol, formând o coroană",
+			"Plantă lemnoasă cu tulpina înaltă și coroana formată din crengi"]
+		}
+		]
+}

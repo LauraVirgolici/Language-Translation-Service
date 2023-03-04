@@ -1,0 +1,22 @@
+{
+	"word": "tata",
+	"word_en": "father",
+	"type": "noun",
+	"singular": ["tata"],
+	"plural": ["tați"],
+	"definitions": [
+		{
+			"dict": "Dicționar de sinonime",
+			"dictType": "synonyms",
+			"year": 1982,
+			"text": ["taica"]
+		},
+		{
+			"dict": "Dicționarul explicativ al limbii române, ediția a II-a",
+			"dictType": "definitions",
+			"year": 2002,
+			"text": ["Bărbat care are copii; nume pe care i-l dau acestui bărbat copiii săi când i se adresează sau când vorbesc despre el ori pe care și-l dă el însuși când vorbește cu copiii săi",
+			"Nume dat unui bărbat considerat ca strămoș, ca fondator al unei dinastii, al unui neam etc"]
+		}
+		]
+}

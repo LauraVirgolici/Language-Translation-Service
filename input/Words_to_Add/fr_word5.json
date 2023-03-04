@@ -1,0 +1,22 @@
+{
+  "word": "chanter",
+  "word_en": "sing",
+  "type": "verb",
+  "singular": ["-"],
+  "plural": ["-"],
+  "definitions": [
+    {
+      "dict": "Larousse",
+      "dictType": "synonyms",
+      "year": 2005,
+      "text": ["-"]
+    },
+    {
+      "dict": "Larousse",
+      "dictType": "definitions",
+      "year": 2003,
+      "text": ["-"
+      ]
+    }
+  ]
+}

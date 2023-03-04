@@ -1,0 +1,22 @@
+{
+  "word": "papa",
+  "word_en": "father",
+  "type": "noun",
+  "singular": ["-"],
+  "plural": ["-"],
+  "definitions": [
+    {
+      "dict": "Larousse",
+      "dictType": "synonyms",
+      "year": 2005,
+      "text": ["-"]
+    },
+    {
+      "dict": "Larousse",
+      "dictType": "definitions",
+      "year": 2003,
+      "text": ["-"
+      ]
+    }
+  ]
+}

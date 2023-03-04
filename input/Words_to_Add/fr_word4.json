@@ -1,0 +1,22 @@
+{
+	"word": "oiseau",
+	"word_en": "bird",
+	"type": "verb",
+	"singular": ["oiseau"],
+	"plural": ["oiseaux"],
+	"definitions": [
+		{
+			"dict": "Larousse",
+			"dictType": "synonyms",
+			"year": 2005,
+			"text": ["volaille"]
+		},
+		{
+			"dict": "Larousse",
+			"dictType": "definitions",
+			"year": 2003,
+			"text": ["Animal (vertébré à sang chaud) au corps recouvert de plumes, dont les membres antérieurs sont des ailes et qui a un bec.",
+			]
+		}
+	]
+}

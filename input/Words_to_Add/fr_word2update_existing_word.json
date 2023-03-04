@@ -1,0 +1,25 @@
+{
+  "word": "chat",
+  "word_en": "cat",
+  "type": "noun",
+  "singular": ["chat"],
+  "plural": ["chats"],
+  "definitions": [
+    {
+      "dict": "Larousse",
+      "dictType": "synonyms",
+      "year": 2000,
+      "text": ["greffier", "mistigri", "matou", "minet"]
+    },
+    {
+      "dict": "Larousse",
+      "dictType": "definitions",
+      "year": 2000,
+      "text": ["Mammifère carnivore (félidé), sauvage ou domestique, au museau court et arrondi",
+        "Familier. Terme d'affection, de tendresse adressé à quelqu'un",
+        "Jeu d'enfants dans lequel un des joueurs, le chat, poursuit les autres et tente de les toucher",
+        "Faisceaux de fils d'acier, utilisés pour nettoyer la boue ou la terre des appareils de forage."
+      ]
+    }
+  ]
+}
